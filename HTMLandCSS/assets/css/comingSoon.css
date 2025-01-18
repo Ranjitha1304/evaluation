@@ -85,7 +85,6 @@ span{
   }
 }
 
-/* Large devices: 1024px and up (e.g., desktops and larger screens) */
 @media (min-width: 1024px) and (max-width:1300px) {
   .logo img {
     width: 15%; 
